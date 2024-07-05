@@ -48,9 +48,9 @@
 - lawn-mower, rocket, streetcar, tank, tractor
 
 ### LOADING DATASET:
-- Importing Libraries:-
+- Importing Libraries:
 -![Screenshot 2024-07-05 220300](https://github.com/twishackaul/CIFAR-100-Classification/assets/107127632/382805d4-6a2d-4d18-b85a-4dfa44e6ee11)
 
-- Loading Dataset while splitting Train and Test set:-
-- ![Screenshot 2024-07-05 220409](https://github.com/twishackaul/CIFAR-100-Classification/assets/107127632/70ae02d4-f9e6-4620-bb86-098b65222c87)
+- Loading Dataset while splitting Train and Test set:
+-![Screenshot 2024-07-05 220409](https://github.com/twishackaul/CIFAR-100-Classification/assets/107127632/70ae02d4-f9e6-4620-bb86-098b65222c87)
 
