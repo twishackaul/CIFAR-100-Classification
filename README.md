@@ -50,9 +50,10 @@
 ## Python code illustrating usage:
 - Importing Libraries:
 
-![Screenshot 2024-07-05 220300](https://github.com/twishackaul/CIFAR-100-Classification/assets/107127632/382805d4-6a2d-4d18-b85a-4dfa44e6ee11)
+![Screenshot 2024-07-05 221955](https://github.com/twishackaul/CIFAR-100-Classification/assets/107127632/2490a57f-a006-4b42-91b9-642a7a1f7292)
 
 - Loading Dataset while splitting Train and Test set:
 
-![Screenshot 2024-07-05 220409](https://github.com/twishackaul/CIFAR-100-Classification/assets/107127632/70ae02d4-f9e6-4620-bb86-098b65222c87)
+![Screenshot 2024-07-05 222015](https://github.com/twishackaul/CIFAR-100-Classification/assets/107127632/2be583f6-98a8-4fb6-9ea7-9f9a36a3502c)
+
 
